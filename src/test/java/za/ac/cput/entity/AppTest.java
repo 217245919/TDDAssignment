@@ -1,4 +1,4 @@
-package za.ac.cput;
+package za.ac.cput.entity;
 
 import static org.junit.Assert.assertTrue;
 
